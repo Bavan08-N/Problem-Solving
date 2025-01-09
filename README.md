@@ -9,3 +9,18 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
  - Hüsam: [GitHub](https://github.com/husamahmud) - [LinkedIn](https://www.linkedin.com/in/husamahmud/)
 
  Happy coding! 🚀
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Bavan08-N/Problem-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
+## String
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Bavan08-N/Problem-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Bavan08-N/Problem-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
+<!---LeetCode Topics End-->
