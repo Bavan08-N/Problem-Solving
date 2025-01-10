@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Bavan08-N/Problem-Solving/tree/master/0415-add-strings) |
 | [0952-word-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/0952-word-subsets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bavan08-N/Problem-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 ## String Matching
@@ -31,4 +32,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0001-two-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0001-two-sum) |
 | [0952-word-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/0952-word-subsets) |
+## Math
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Bavan08-N/Problem-Solving/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Bavan08-N/Problem-Solving/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
