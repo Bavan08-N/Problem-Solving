@@ -32,10 +32,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0001-two-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0001-two-sum) |
 | [0952-word-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/0952-word-subsets) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/Bavan08-N/Problem-Solving/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Math
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Bavan08-N/Problem-Solving/tree/master/0415-add-strings) |
+| [2824-check-if-the-number-is-fascinating](https://github.com/Bavan08-N/Problem-Solving/tree/master/2824-check-if-the-number-is-fascinating) |
 ## Simulation
 |  |
 | ------- |
