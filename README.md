@@ -22,6 +22,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0415-add-strings](https://github.com/Bavan08-N/Problem-Solving/tree/master/0415-add-strings) |
 | [0952-word-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/0952-word-subsets) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bavan08-N/Problem-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 ## String Matching
 |  |
@@ -58,4 +59,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bavan08-N/Problem-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/1537-maximum-score-after-splitting-a-string) |
 <!---LeetCode Topics End-->
