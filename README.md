@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bavan08-N/Problem-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Bavan08-N/Problem-Solving/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3311-ant-on-the-boundary](https://github.com/Bavan08-N/Problem-Solving/tree/master/3311-ant-on-the-boundary) |
+| [3330-modify-the-matrix](https://github.com/Bavan08-N/Problem-Solving/tree/master/3330-modify-the-matrix) |
 ## String
 |  |
 | ------- |
@@ -81,4 +82,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Bavan08-N/Problem-Solving/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
+## Matrix
+|  |
+| ------- |
+| [3330-modify-the-matrix](https://github.com/Bavan08-N/Problem-Solving/tree/master/3330-modify-the-matrix) |
 <!---LeetCode Topics End-->
