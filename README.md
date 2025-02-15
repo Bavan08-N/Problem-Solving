@@ -45,6 +45,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0415-add-strings](https://github.com/Bavan08-N/Problem-Solving/tree/master/0415-add-strings) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Bavan08-N/Problem-Solving/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/Bavan08-N/Problem-Solving/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Simulation
 |  |
 | ------- |
