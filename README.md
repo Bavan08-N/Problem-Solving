@@ -16,6 +16,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0001-two-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0001-two-sum) |
 | [0952-word-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/0952-word-subsets) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Bavan08-N/Problem-Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bavan08-N/Problem-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2755-extra-characters-in-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Bavan08-N/Problem-Solving/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
@@ -40,6 +41,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0001-two-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0001-two-sum) |
 | [0952-word-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/0952-word-subsets) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Bavan08-N/Problem-Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bavan08-N/Problem-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2755-extra-characters-in-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
@@ -81,6 +83,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Counting
 |  |
 | ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Bavan08-N/Problem-Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bavan08-N/Problem-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Enumeration
 |  |
