@@ -17,6 +17,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0001-two-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0001-two-sum) |
 | [0952-word-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/0952-word-subsets) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bavan08-N/Problem-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2755-extra-characters-in-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Bavan08-N/Problem-Solving/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3311-ant-on-the-boundary](https://github.com/Bavan08-N/Problem-Solving/tree/master/3311-ant-on-the-boundary) |
 | [3330-modify-the-matrix](https://github.com/Bavan08-N/Problem-Solving/tree/master/3330-modify-the-matrix) |
@@ -29,6 +30,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1904-second-largest-digit-in-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bavan08-N/Problem-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bavan08-N/Problem-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2755-extra-characters-in-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -40,6 +42,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0952-word-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/0952-word-subsets) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bavan08-N/Problem-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2755-extra-characters-in-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Bavan08-N/Problem-Solving/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Bavan08-N/Problem-Solving/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 ## Math
@@ -91,4 +94,9 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Bavan08-N/Problem-Solving/tree/master/0386-lexicographical-numbers) |
+| [2755-extra-characters-in-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2755-extra-characters-in-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
 <!---LeetCode Topics End-->
