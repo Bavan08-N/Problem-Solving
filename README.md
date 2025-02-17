@@ -60,6 +60,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Bavan08-N/Problem-Solving/tree/master/0386-lexicographical-numbers) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Bavan08-N/Problem-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -86,4 +87,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [3330-modify-the-matrix](https://github.com/Bavan08-N/Problem-Solving/tree/master/3330-modify-the-matrix) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Bavan08-N/Problem-Solving/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
