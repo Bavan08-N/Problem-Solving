@@ -30,6 +30,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0415-add-strings](https://github.com/Bavan08-N/Problem-Solving/tree/master/0415-add-strings) |
 | [0952-word-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/0952-word-subsets) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bavan08-N/Problem-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2107-find-unique-binary-string) |
@@ -62,6 +63,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0415-add-strings](https://github.com/Bavan08-N/Problem-Solving/tree/master/0415-add-strings) |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [3311-ant-on-the-boundary](https://github.com/Bavan08-N/Problem-Solving/tree/master/3311-ant-on-the-boundary) |
 ## Tree
 |  |
@@ -126,4 +128,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
+## Recursion
+|  |
+| ------- |
+| [1667-find-kth-bit-in-nth-binary-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 <!---LeetCode Topics End-->
