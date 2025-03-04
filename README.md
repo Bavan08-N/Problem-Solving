@@ -16,6 +16,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0001-two-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0001-two-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/Bavan08-N/Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bavan08-N/Problem-Solving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/0952-word-subsets) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Bavan08-N/Problem-Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
