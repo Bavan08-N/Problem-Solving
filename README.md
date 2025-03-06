@@ -26,6 +26,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bavan08-N/Problem-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Bavan08-N/Problem-Solving/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
+| [3227-find-missing-and-repeated-values](https://github.com/Bavan08-N/Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Bavan08-N/Problem-Solving/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3311-ant-on-the-boundary](https://github.com/Bavan08-N/Problem-Solving/tree/master/3311-ant-on-the-boundary) |
 | [3330-modify-the-matrix](https://github.com/Bavan08-N/Problem-Solving/tree/master/3330-modify-the-matrix) |
@@ -59,6 +60,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Bavan08-N/Problem-Solving/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Bavan08-N/Problem-Solving/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3227-find-missing-and-repeated-values](https://github.com/Bavan08-N/Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Bavan08-N/Problem-Solving/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 ## Math
 |  |
@@ -66,6 +68,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0415-add-strings](https://github.com/Bavan08-N/Problem-Solving/tree/master/0415-add-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bavan08-N/Problem-Solving/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Bavan08-N/Problem-Solving/tree/master/2824-check-if-the-number-is-fascinating) |
+| [3227-find-missing-and-repeated-values](https://github.com/Bavan08-N/Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Bavan08-N/Problem-Solving/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Simulation
 |  |
@@ -109,6 +112,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Matrix
 |  |
 | ------- |
+| [3227-find-missing-and-repeated-values](https://github.com/Bavan08-N/Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Bavan08-N/Problem-Solving/tree/master/3330-modify-the-matrix) |
 ## Trie
 |  |
