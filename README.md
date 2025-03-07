@@ -67,6 +67,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0415-add-strings](https://github.com/Bavan08-N/Problem-Solving/tree/master/0415-add-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bavan08-N/Problem-Solving/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2610-closest-prime-numbers-in-range](https://github.com/Bavan08-N/Problem-Solving/tree/master/2610-closest-prime-numbers-in-range) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Bavan08-N/Problem-Solving/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bavan08-N/Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Bavan08-N/Problem-Solving/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -148,4 +149,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+## Number Theory
+|  |
+| ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/Bavan08-N/Problem-Solving/tree/master/2610-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
