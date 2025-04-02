@@ -27,6 +27,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bavan08-N/Problem-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Bavan08-N/Problem-Solving/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2755-extra-characters-in-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
+| [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Bavan08-N/Problem-Solving/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bavan08-N/Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Bavan08-N/Problem-Solving/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 | [3311-ant-on-the-boundary](https://github.com/Bavan08-N/Problem-Solving/tree/master/3311-ant-on-the-boundary) |
