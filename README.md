@@ -125,6 +125,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Bavan08-N/Problem-Solving/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bavan08-N/Problem-Solving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Bavan08-N/Problem-Solving/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -139,6 +140,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/Bavan08-N/Problem-Solving/tree/master/0338-counting-bits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Stack
 |  |
