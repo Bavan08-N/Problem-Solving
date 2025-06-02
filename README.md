@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0001-two-sum) |
+| [0414-third-maximum-number](https://github.com/Bavan08-N/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Bavan08-N/Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bavan08-N/Problem-Solving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -161,4 +162,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/Bavan08-N/Problem-Solving/tree/master/2610-closest-prime-numbers-in-range) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/Bavan08-N/Problem-Solving/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
