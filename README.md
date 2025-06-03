@@ -16,6 +16,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0001-two-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/Bavan08-N/Problem-Solving/tree/master/0016-3sum-closest) |
+| [0064-minimum-path-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0414-third-maximum-number](https://github.com/Bavan08-N/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Bavan08-N/Problem-Solving/tree/master/0485-max-consecutive-ones) |
@@ -119,6 +120,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bavan08-N/Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Bavan08-N/Problem-Solving/tree/master/3330-modify-the-matrix) |
 ## Trie
@@ -129,6 +131,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0338-counting-bits](https://github.com/Bavan08-N/Problem-Solving/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bavan08-N/Problem-Solving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
