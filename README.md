@@ -18,6 +18,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0016-3sum-closest](https://github.com/Bavan08-N/Problem-Solving/tree/master/0016-3sum-closest) |
 | [0039-combination-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0039-combination-sum) |
 | [0064-minimum-path-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/0078-subsets) |
 | [0414-third-maximum-number](https://github.com/Bavan08-N/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Bavan08-N/Problem-Solving/tree/master/0485-max-consecutive-ones) |
@@ -143,12 +144,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/0078-subsets) |
 | [2107-find-unique-binary-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/0078-subsets) |
 | [0338-counting-bits](https://github.com/Bavan08-N/Problem-Solving/tree/master/0338-counting-bits) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Stack
