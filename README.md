@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/Bavan08-N/Problem-Solving/tree/master/0016-3sum-closest) |
 | [0414-third-maximum-number](https://github.com/Bavan08-N/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Bavan08-N/Problem-Solving/tree/master/0485-max-consecutive-ones) |
@@ -165,5 +166,10 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Bavan08-N/Problem-Solving/tree/master/0016-3sum-closest) |
 | [0414-third-maximum-number](https://github.com/Bavan08-N/Problem-Solving/tree/master/0414-third-maximum-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Bavan08-N/Problem-Solving/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
