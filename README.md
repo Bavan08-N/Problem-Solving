@@ -24,6 +24,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0485-max-consecutive-ones](https://github.com/Bavan08-N/Problem-Solving/tree/master/0485-max-consecutive-ones) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Bavan08-N/Problem-Solving/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0952-word-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/0952-word-subsets) |
+| [1137-height-checker](https://github.com/Bavan08-N/Problem-Solving/tree/master/1137-height-checker) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Bavan08-N/Problem-Solving/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Bavan08-N/Problem-Solving/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2107-find-unique-binary-string) |
@@ -176,8 +177,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0016-3sum-closest](https://github.com/Bavan08-N/Problem-Solving/tree/master/0016-3sum-closest) |
 | [0414-third-maximum-number](https://github.com/Bavan08-N/Problem-Solving/tree/master/0414-third-maximum-number) |
+| [1137-height-checker](https://github.com/Bavan08-N/Problem-Solving/tree/master/1137-height-checker) |
 ## Two Pointers
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Bavan08-N/Problem-Solving/tree/master/0016-3sum-closest) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Bavan08-N/Problem-Solving/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
