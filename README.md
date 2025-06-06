@@ -77,6 +77,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Bavan08-N/Problem-Solving/tree/master/0007-reverse-integer) |
 | [0415-add-strings](https://github.com/Bavan08-N/Problem-Solving/tree/master/0415-add-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bavan08-N/Problem-Solving/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Bavan08-N/Problem-Solving/tree/master/2610-closest-prime-numbers-in-range) |
