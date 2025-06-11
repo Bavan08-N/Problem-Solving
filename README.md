@@ -83,6 +83,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0007-reverse-integer](https://github.com/Bavan08-N/Problem-Solving/tree/master/0007-reverse-integer) |
 | [0415-add-strings](https://github.com/Bavan08-N/Problem-Solving/tree/master/0415-add-strings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Bavan08-N/Problem-Solving/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [2083-three-divisors](https://github.com/Bavan08-N/Problem-Solving/tree/master/2083-three-divisors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Bavan08-N/Problem-Solving/tree/master/2610-closest-prime-numbers-in-range) |
 | [2824-check-if-the-number-is-fascinating](https://github.com/Bavan08-N/Problem-Solving/tree/master/2824-check-if-the-number-is-fascinating) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bavan08-N/Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
@@ -125,6 +126,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Enumeration
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/Bavan08-N/Problem-Solving/tree/master/2083-three-divisors) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3299-find-the-maximum-number-of-elements-in-subset](https://github.com/Bavan08-N/Problem-Solving/tree/master/3299-find-the-maximum-number-of-elements-in-subset) |
 ## Matrix
@@ -182,6 +184,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/Bavan08-N/Problem-Solving/tree/master/2083-three-divisors) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Bavan08-N/Problem-Solving/tree/master/2610-closest-prime-numbers-in-range) |
 ## Sorting
 |  |
