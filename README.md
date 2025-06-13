@@ -33,6 +33,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2262-solving-questions-with-brainpower](https://github.com/Bavan08-N/Problem-Solving/tree/master/2262-solving-questions-with-brainpower) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bavan08-N/Problem-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Bavan08-N/Problem-Solving/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bavan08-N/Problem-Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Bavan08-N/Problem-Solving/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Bavan08-N/Problem-Solving/tree/master/3227-find-missing-and-repeated-values) |
@@ -177,6 +178,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0409-longest-palindrome](https://github.com/Bavan08-N/Problem-Solving/tree/master/0409-longest-palindrome) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bavan08-N/Problem-Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -204,4 +206,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Binary Search
+|  |
+| ------- |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bavan08-N/Problem-Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 <!---LeetCode Topics End-->
