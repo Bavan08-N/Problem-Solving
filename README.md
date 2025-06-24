@@ -32,6 +32,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2262-solving-questions-with-brainpower](https://github.com/Bavan08-N/Problem-Solving/tree/master/2262-solving-questions-with-brainpower) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bavan08-N/Problem-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Bavan08-N/Problem-Solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Bavan08-N/Problem-Solving/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bavan08-N/Problem-Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2755-extra-characters-in-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
@@ -198,6 +199,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Bavan08-N/Problem-Solving/tree/master/0016-3sum-closest) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Bavan08-N/Problem-Solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Counting Sort
 |  |
 | ------- |
