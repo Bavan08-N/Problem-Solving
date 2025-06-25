@@ -19,6 +19,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0039-combination-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0039-combination-sum) |
 | [0064-minimum-path-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/0078-subsets) |
+| [0179-largest-number](https://github.com/Bavan08-N/Problem-Solving/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/Bavan08-N/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Bavan08-N/Problem-Solving/tree/master/0485-max-consecutive-ones) |
@@ -45,6 +46,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Bavan08-N/Problem-Solving/tree/master/0131-palindrome-partitioning) |
+| [0179-largest-number](https://github.com/Bavan08-N/Problem-Solving/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Bavan08-N/Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Bavan08-N/Problem-Solving/tree/master/0415-add-strings) |
 | [0952-word-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/0952-word-subsets) |
@@ -176,6 +178,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Bavan08-N/Problem-Solving/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Bavan08-N/Problem-Solving/tree/master/0409-longest-palindrome) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -193,6 +196,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Bavan08-N/Problem-Solving/tree/master/0016-3sum-closest) |
+| [0179-largest-number](https://github.com/Bavan08-N/Problem-Solving/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/Bavan08-N/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [1137-height-checker](https://github.com/Bavan08-N/Problem-Solving/tree/master/1137-height-checker) |
 ## Two Pointers
