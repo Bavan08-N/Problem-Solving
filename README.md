@@ -31,6 +31,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2058-concatenation-of-array](https://github.com/Bavan08-N/Problem-Solving/tree/master/2058-concatenation-of-array) |
 | [2107-find-unique-binary-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/Bavan08-N/Problem-Solving/tree/master/2262-solving-questions-with-brainpower) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Bavan08-N/Problem-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Bavan08-N/Problem-Solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -75,6 +76,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1904-second-largest-digit-in-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/1904-second-largest-digit-in-a-string) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Bavan08-N/Problem-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2107-find-unique-binary-string) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Bavan08-N/Problem-Solving/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2755-extra-characters-in-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2755-extra-characters-in-a-string) |
@@ -199,6 +201,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0179-largest-number](https://github.com/Bavan08-N/Problem-Solving/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/Bavan08-N/Problem-Solving/tree/master/0414-third-maximum-number) |
 | [1137-height-checker](https://github.com/Bavan08-N/Problem-Solving/tree/master/1137-height-checker) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -216,4 +219,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bavan08-N/Problem-Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Bavan08-N/Problem-Solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 <!---LeetCode Topics End-->
