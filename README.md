@@ -54,6 +54,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0415-add-strings](https://github.com/Bavan08-N/Problem-Solving/tree/master/0415-add-strings) |
 | [0952-word-subsets](https://github.com/Bavan08-N/Problem-Solving/tree/master/0952-word-subsets) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Bavan08-N/Problem-Solving/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1904-second-largest-digit-in-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/1904-second-largest-digit-in-a-string) |
@@ -179,6 +180,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Stack
 |  |
 | ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Bavan08-N/Problem-Solving/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 ## Greedy
@@ -186,6 +188,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0179-largest-number](https://github.com/Bavan08-N/Problem-Solving/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Bavan08-N/Problem-Solving/tree/master/0409-longest-palindrome) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Bavan08-N/Problem-Solving/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Bavan08-N/Problem-Solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -233,4 +236,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Bavan08-N/Problem-Solving/tree/master/0594-longest-harmonious-subsequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Bavan08-N/Problem-Solving/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
