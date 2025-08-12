@@ -47,6 +47,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/Bavan08-N/Problem-Solving/tree/master/0038-count-and-say) |
 | [0131-palindrome-partitioning](https://github.com/Bavan08-N/Problem-Solving/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Bavan08-N/Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Bavan08-N/Problem-Solving/tree/master/0179-largest-number) |
